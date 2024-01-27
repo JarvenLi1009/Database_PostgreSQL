@@ -4,6 +4,9 @@
 ### This repository contains all of my assignments as well as the projects that I have been worked on.
 ### Please take a look!!! And have fun!!!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 5100_DB_Group_Assignment_1.sql:
+In this sql file, I did several queries to analyze and gain insights from the bakery_sales data set.
+
 
 ## P1_customer_360.sql:
 This is the project that I did in this course for which it analyze cutomer lifetime value. 
