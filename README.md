@@ -6,10 +6,14 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 5100_DB_Group_Assignment_1.sql:
 In this sql file, I practiced using queries to analyze and gain insights from the bakery_sales data set.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##  
+## A2 - Data Ingestion Pipeline.ipynb:
+In this jupyternote book, My group developed a data ingestion pipeline to pull data from the Ontario Data Catalog, which we aimed at pulling data that contains information on violent crime rates in Ontario from 2008 to 2012. The dataset is available in CSV format named: "violent_crime_rates.csv"
 
+In this file, our group used API technique to request connection between our terminal and the website source end. We used request library for that part and then standardized the content from the website in a json file. And we did a data extraction using the according attributes. Finally we did a data cleaning to prepare the data for the file to be ready to submit.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## P1_customer_360.sql:
 This is the project that I did in this course for which it analyze cutomer lifetime value. 
 It is a valid forecast of a customer's future profits and is used to measure how valuable a customer (user) is to the organization over a period of time.
