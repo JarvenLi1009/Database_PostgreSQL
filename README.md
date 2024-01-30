@@ -24,3 +24,6 @@ The script for a Customer 360 view, to understand and analyze customer interacti
 
 I utilized ROW_NUMBER(), and LEAD() functions, partitioned by customer_id and ordered by conversion_date to analyze reccurrence and sequence of conversion.
 I did time frame analysis, date-related analysis, and order-week analysis to provide a comprehensive view on customer engagements and interactions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I have also uploaded some of the built-in functions like CASE WHEN statement; Aggregation functions; Group By statements; and many more. Just for reshreshing my memory in case I need aid in my coding practices.
