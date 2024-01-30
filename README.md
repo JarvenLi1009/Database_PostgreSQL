@@ -7,7 +7,9 @@
 ## 5100_DB_Group_Assignment_1.sql:
 In this sql file, I practiced using queries to analyze and gain insights from the bakery_sales data set.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 5100_DB_Group_Assignment_1.sql:
+##  
+
+
 ## P1_customer_360.sql:
 This is the project that I did in this course for which it analyze cutomer lifetime value. 
 It is a valid forecast of a customer's future profits and is used to measure how valuable a customer (user) is to the organization over a period of time.
